@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-Hello, there! 👍😃 
+Hello, there! 👍😃  <br /> 
 This repository contains my ongoing DS projects. The following projects are listed:
 - Kaggle "Titanic - Machine Learning from Disaster" Challenge 
   - Classification problem using XGBoost with proper feature engineering. 
