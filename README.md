@@ -1,6 +1,5 @@
 # Data Science Portfolio
 
-Hello, there! 👍😃  <br /> 
 This repository contains my ongoing DS projects. The following projects are listed:
 * Competitions:
     - Kaggle "Titanic - Machine Learning from Disaster" Challenge 
